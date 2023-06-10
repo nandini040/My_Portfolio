@@ -12,15 +12,13 @@ const footer = () => {
         <li><a href="#">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#expirence">Experience</a></li>
-        <li><a href="#services">Services</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#testimonials">Testimonial</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
 
       <div className="footer_socials">
-        <a href="https://instagram.com"><BsInstagram /></a>
-        <a href="https://twitter.com.com"><TfiTwitter /></a>
+        <a href="https://www.instagram.com/nandini_n_a" target="_blank"><BsInstagram /></a>
+        <a href="https://twitter.com.com" target="_blank"><TfiTwitter /></a>
       </div>
 
       <div className="footer_copyright">

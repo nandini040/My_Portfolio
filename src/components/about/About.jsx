@@ -17,26 +17,13 @@ const About = () => {
         </div>
      </div>
      <div className="about_content">
-        <div className="about_cards">
-           <article className='about_card'>
-             <FaAward className="about_icon" />
-             <h5>Experience</h5>
-             <small>1 Years Working</small>
-           </article>
-           <article className='about_card'>
-             <FiUsers className="about_icon" />
-             <h5>Clients</h5>
-             <small>100+ Worldwide</small>
-           </article>
-           <article className='about_card'>
-             <IoLibrarySharp className="about_icon" />
-             <h5>Projects</h5>
-             <small>10 completed </small>
-           </article>
-        </div>
+        <h2>
+        Website for coaches who know that priortizing people leads to profit
+        </h2>
         <p>
-     Product lifecycle management (PLM) is the process of managing a product’s lifecycle from inception, through design and manufacturing, to sales, service, and eventually retirement.
-     </p>
+        Passionate web developer with a strong eye for detail and a love for creating functional and visually appealing websites that make a lasting impact.
+        With a focus on user-centric design principles, I strive to create websites that not only captivate audiences visually but also enhance their interactions, fostering meaningful connections between brands and users.
+       </p>
       
     <a href="#contact" className="btn btn-primary">Let's Talk</a>
      </div>

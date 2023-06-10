@@ -50,12 +50,13 @@
         gap:2rem;
     }
     .experience{
+        margin:0 1rem 0 1rem;
        height:auto;
     }
     
     
     .experience_container > div{
-        width:100%;
+        width:80%;
         padding:2rem;
     }
     .experience_content {
